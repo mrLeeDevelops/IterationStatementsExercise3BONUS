@@ -1,0 +1,13 @@
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\IterationStatementsExercise3\IterationStatementsExercise3\bin\Debug\netcoreapp3.1\IterationStatementsExercise3.exe
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\IterationStatementsExercise3\IterationStatementsExercise3\bin\Debug\netcoreapp3.1\IterationStatementsExercise3.deps.json
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\IterationStatementsExercise3\IterationStatementsExercise3\bin\Debug\netcoreapp3.1\IterationStatementsExercise3.runtimeconfig.json
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\IterationStatementsExercise3\IterationStatementsExercise3\bin\Debug\netcoreapp3.1\IterationStatementsExercise3.runtimeconfig.dev.json
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\IterationStatementsExercise3\IterationStatementsExercise3\bin\Debug\netcoreapp3.1\IterationStatementsExercise3.dll
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\IterationStatementsExercise3\IterationStatementsExercise3\bin\Debug\netcoreapp3.1\IterationStatementsExercise3.pdb
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\IterationStatementsExercise3\IterationStatementsExercise3\obj\Debug\netcoreapp3.1\IterationStatementsExercise3.csproj.AssemblyReference.cache
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\IterationStatementsExercise3\IterationStatementsExercise3\obj\Debug\netcoreapp3.1\IterationStatementsExercise3.AssemblyInfoInputs.cache
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\IterationStatementsExercise3\IterationStatementsExercise3\obj\Debug\netcoreapp3.1\IterationStatementsExercise3.AssemblyInfo.cs
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\IterationStatementsExercise3\IterationStatementsExercise3\obj\Debug\netcoreapp3.1\IterationStatementsExercise3.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\IterationStatementsExercise3\IterationStatementsExercise3\obj\Debug\netcoreapp3.1\IterationStatementsExercise3.dll
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\IterationStatementsExercise3\IterationStatementsExercise3\obj\Debug\netcoreapp3.1\IterationStatementsExercise3.pdb
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\IterationStatementsExercise3\IterationStatementsExercise3\obj\Debug\netcoreapp3.1\IterationStatementsExercise3.genruntimeconfig.cache
